@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Pastrana`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Eusebio Bermejo`,
+      summary: `who lives and works in Isle of Wight (UK) cycling around the world.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Inicial blog to show how is the life in the Isle of Wight`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `UsebhH`,
     },
   },
   plugins: [
