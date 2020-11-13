@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Pastrana`,
+    title: `Pedaleando`,
     author: {
       name: `Eusebio Bermejo`,
       summary: `who lives and works in Isle of Wight (UK) cycling around the world.`,
