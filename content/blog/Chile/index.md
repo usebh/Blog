@@ -1,22 +1,23 @@
 ---
-title: Cycling aroung Chile
-date: "2015-05-01T22:12:03.284Z"
-description: "Cycling aroung Chile"
+title: Cycling around Chile
+date: "2013-05-01T22:12:03.284Z"
+description: "The immensity"
 ---
-
-This is my first post on my new fake blog! How exciting!
+This is my third post on my new blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
+
+Let´s start.
 
 Living in Chile I had the oportunity to visit wonderful places, one the more amazing
 places was Atacama desert.
 [San Pedro de Atacama](https://en.wikipedia.org/wiki/San_Pedro_de_Atacama).
 
-> Cyclig around San Pedro de Atacama in north Chile we reached the Bolivian 
+> Cycling around San Pedro de Atacama in north Chile we reached the Bolivian 
 > border, we found a exausted cyclist, after taking a break and eating something,
 > he started to tell us his long journey to arrive there, he crossed all of Chile
 > from Argentine Patagonia just with €100. Many people helped him giving food 
-> and drinks. His goal was to get Cota Rica in one month time. Good luck my 
+> and drinks. His goal was to get Costa Rica in one month time. Good luck my 
 > friend!!!!
 
 ## Chile-Bolivia border
@@ -34,197 +35,18 @@ Valle del infierno
 Los Andes mountains
 
 
-This is a paragraph.
+Spectacular natural environment
 
-    This is a paragraph es para nada.
+    Every step you take is a surprise, the vastness overwhelms. 
+    The sky at night is clear and feel that the stars are within 
+    your reach.
 
-# Header 1
+## La Patagonia, the opposite pole 
 
-## Header 2
+![Central Chile](./D6F0BD29-A520-4731-B197-9D1C733572ED_1_105_c.jpeg)
+Perito Moreno 
 
-    Header 1
-    ========
 
-    Header 2
-    --------
+This is [Patagonia clilena](https://en.wikipedia.org/wiki/Patagonia "Example") link.
 
-# Header 1
 
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
-
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
->     Markdown.generate();
-
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
-
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
-
-- `code goes` here in this line
-- **bold** goes here
-
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
-
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-
-```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-```
-
-1. `code goes` here in this line
-1. **bold** goes here
-
-```markdown
-1. `code goes` here in this line
-1. **bold** goes here
-```
-
-Paragraph:
-
-    Code
-
-<!-- -->
-
-    Paragraph:
-
-        Code
-
----
-
----
-
----
-
----
-
----
-
-    * * *
-
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
-This paragraph has some `code` in it.
-
-    This paragraph has some `code` in it.
-
-![Alt Text](https://placehold.it/200x50 "Image Title")
-
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
