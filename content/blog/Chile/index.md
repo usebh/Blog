@@ -1,7 +1,7 @@
 ---
 title: Cycling around Chile
 date: "2013-05-01T22:12:03.284Z"
-description: "The immensity"
+description: "The immensity!"
 ---
 This is my third post on my new blog! How exciting!
 

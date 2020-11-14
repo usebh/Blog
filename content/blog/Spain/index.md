@@ -1,7 +1,7 @@
 ---
 title: Cycling around Spain
 date: "2015-05-28T22:40:32.169Z"
-description: My home
+description: My home!
 ---
 
 This is my second post on my new blog! How exciting!

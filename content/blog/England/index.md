@@ -1,7 +1,7 @@
 ---
 title: Cycling around England
 date: "2017-05-06T23:46:37.121Z"
-description: "The rain on the face"
+description: "The rain on the face!"
 ---
 
 This is my first post on my new blog! How exciting!

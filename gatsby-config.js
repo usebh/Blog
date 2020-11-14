@@ -3,7 +3,7 @@ module.exports = {
     title: `Pedaleando`,
     author: {
       name: `Eusebio Bermejo`,
-      summary: `who lives and works in Isle of Wight (UK) cycling around the world.`,
+      summary: `who lives and works in Isle of Wight (UK). Cycling around the world I have discovered amazing places and i want to show you a tiny part of them.`,
     },
     description: `Inicial blog to show how is the life in the Isle of Wight`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
