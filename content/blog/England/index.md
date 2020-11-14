@@ -14,9 +14,9 @@ Living in England,I have traveled much of southern England, among the highlights
 ([Wikipedia Link]https://en.wikipedia.org/wiki/Isle_of_Wight))
 
 > Cycling around England is strange at the begining, because after cycling in the 
-> inmmensity of Chile which almost there is traffic, in England you have to get 
+> inmensity of Chile which almost there is no traffic, in England you have to get 
 > used to cycling with cars around you all the time. 
-> I discovered a little island in south England. In the Isle of Wight the traffic 
+> I discovered a little island in south England. On the Isle of Wight the traffic 
 > is totally different, there are no many cars and you can go cycling free.
 
 ## Isle of Wight
